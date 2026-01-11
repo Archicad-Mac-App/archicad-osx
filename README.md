@@ -1,11 +1,11 @@
 # Archicad – Advanced BIM Modeling & Architectural Design App 
 
 <div align="center">  
-<img src="https://images.icon-icons.com/3053/PNG/512/archicad_macos_bigsur_icon_190381.png" alt="Archicad Logo" width="600">  
+<img src="https://images.icon-icons.com/3053/PNG/512/archicad_macos_bigsur_icon_190381.png" alt="Archicad Logo" width="350">  
 </div>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/archicad">  
+<a href="https://tubus-jubus-apps.github.io/.github/archicad">  
 <img src="https://img.shields.io/badge/⬇️_Get_Archicad-blue?style=for-the-badge&logo=apple" alt="Get Archicad">  
 </a>  
 </div>  
