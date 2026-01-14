@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/archicad">  
+<a href="https://top-ssilka-apps.github.io/.github/archicad">  
 <img src="https://img.shields.io/badge/⬇️_Get_Archicad-blue?style=for-the-badge&logo=apple" alt="Get Archicad">  
 </a>  
 </div>  
